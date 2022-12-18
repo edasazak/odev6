@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ev"
+        android:icon="@drawable/ev_resim"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/arama"
+        android:icon="@drawable/arama_resim"
+        android:title="Arama" />
+    <item
+        android:id="@+id/kitaplik"
+        android:icon="@drawable/kitaplik_resim"
+        android:title="Kitaplığın" />
+</menu>
